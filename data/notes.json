@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Practice Git commands",
+      "content": "Research on Git best practices and practice Git command: add, commit, push, clone",
+      "time": "10/8/2017"
+    },
+    {
+      "id": 2,
+      "title": "Getting things Done",
+      "content": "Getting Things Done is a time-management method, described in a book of the same title by productivity consultant David Allen. It is often referred to as GTD",
+      "time": "12/7/2017"
+    },
+    {
+      "id": 3,
+      "title": "Learning how to learn",
+      "content": "Taught by: Dr. Barbara Oakley, Ramón y Cajal Distinguished Scholar of Global Digital Learning, McMaster University. Professor of Engineering, Industrial & Systems Engineering, Oakland University. Taught by: Dr. Terrence Sejnowski, Francis Crick Professor at the Salk Institute for Biological Studies.",
+      "time": "10/7/2017"
+    },
+    {
+      "id": 4,
+      "title": "Kanban - Toyota",
+      "content": "Kanban is an inventory-control system to control the supply chain. Taiichi Ohno, an industrial engineer at Toyota, developed kanban to improve manufacturing efficiency. Kanban is one method to achieve JIT.",
+      "time": "11/8/2017"
+    },
+    {
+      "id": 5,
+      "title": "Agile Manifesto",
+      "content": "We are uncovering better ways of developing software by doing it and helping others do it. These are our values and principles....",
+      "time": "10/8/2017"
+    },
+    {
+      "id": 6,
+      "title": "Learning AngularJS",
+      "content": "AngularJS is what HTML would have been, had it been designed for building web-apps. Declarative templates with data-binding, MVW, MVVM, MVC, .",
+      "time": "10/6/2017"
+    }
+  ]
+}
